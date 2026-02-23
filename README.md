@@ -35,4 +35,3 @@ Interactive web platform built using JavaScript to provide structured user navig
 ## 📫 Connect With Me
 
 - Email: nle911@uic.edu
-- LinkedIn: (add your link here)
